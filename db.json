@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "cost": 64
+    },
+    {
+      "id": 2,
+      "author": "J. R. R. Tolkien",
+      "name": "The Lord Of The Rings",
+      "cost": 70
+    }
+  ]
+}
